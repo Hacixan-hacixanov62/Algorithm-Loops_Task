@@ -1,0 +1,29 @@
+C:\API (epiay)\Algoritms-Loop_Task\Algoritms-Loop_Task\bin\Debug\net6.0\Algoritms-Loop_Task.exe
+C:\API (epiay)\Algoritms-Loop_Task\Algoritms-Loop_Task\bin\Debug\net6.0\Algoritms-Loop_Task.deps.json
+C:\API (epiay)\Algoritms-Loop_Task\Algoritms-Loop_Task\bin\Debug\net6.0\Algoritms-Loop_Task.runtimeconfig.json
+C:\API (epiay)\Algoritms-Loop_Task\Algoritms-Loop_Task\bin\Debug\net6.0\Algoritms-Loop_Task.dll
+C:\API (epiay)\Algoritms-Loop_Task\Algoritms-Loop_Task\bin\Debug\net6.0\Algoritms-Loop_Task.pdb
+C:\API (epiay)\Algoritms-Loop_Task\Algoritms-Loop_Task\obj\Debug\net6.0\Algoritms-Loop_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\API (epiay)\Algoritms-Loop_Task\Algoritms-Loop_Task\obj\Debug\net6.0\Algoritms-Loop_Task.AssemblyInfoInputs.cache
+C:\API (epiay)\Algoritms-Loop_Task\Algoritms-Loop_Task\obj\Debug\net6.0\Algoritms-Loop_Task.AssemblyInfo.cs
+C:\API (epiay)\Algoritms-Loop_Task\Algoritms-Loop_Task\obj\Debug\net6.0\Algoritms-Loop_Task.csproj.CoreCompileInputs.cache
+C:\API (epiay)\Algoritms-Loop_Task\Algoritms-Loop_Task\obj\Debug\net6.0\Algoritms-Loop_Task.dll
+C:\API (epiay)\Algoritms-Loop_Task\Algoritms-Loop_Task\obj\Debug\net6.0\refint\Algoritms-Loop_Task.dll
+C:\API (epiay)\Algoritms-Loop_Task\Algoritms-Loop_Task\obj\Debug\net6.0\Algoritms-Loop_Task.pdb
+C:\API (epiay)\Algoritms-Loop_Task\Algoritms-Loop_Task\obj\Debug\net6.0\Algoritms-Loop_Task.genruntimeconfig.cache
+C:\API (epiay)\Algoritms-Loop_Task\Algoritms-Loop_Task\obj\Debug\net6.0\ref\Algoritms-Loop_Task.dll
+C:\Users\Hacixanov\Desktop\Algoritms-Loop_Task\Algoritms-Loop_Task\bin\Debug\net6.0\Algoritms-Loop_Task.exe
+C:\Users\Hacixanov\Desktop\Algoritms-Loop_Task\Algoritms-Loop_Task\bin\Debug\net6.0\Algoritms-Loop_Task.deps.json
+C:\Users\Hacixanov\Desktop\Algoritms-Loop_Task\Algoritms-Loop_Task\bin\Debug\net6.0\Algoritms-Loop_Task.runtimeconfig.json
+C:\Users\Hacixanov\Desktop\Algoritms-Loop_Task\Algoritms-Loop_Task\bin\Debug\net6.0\Algoritms-Loop_Task.dll
+C:\Users\Hacixanov\Desktop\Algoritms-Loop_Task\Algoritms-Loop_Task\bin\Debug\net6.0\Algoritms-Loop_Task.pdb
+C:\Users\Hacixanov\Desktop\Algoritms-Loop_Task\Algoritms-Loop_Task\obj\Debug\net6.0\Algoritms-Loop_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hacixanov\Desktop\Algoritms-Loop_Task\Algoritms-Loop_Task\obj\Debug\net6.0\Algoritms-Loop_Task.AssemblyInfoInputs.cache
+C:\Users\Hacixanov\Desktop\Algoritms-Loop_Task\Algoritms-Loop_Task\obj\Debug\net6.0\Algoritms-Loop_Task.AssemblyInfo.cs
+C:\Users\Hacixanov\Desktop\Algoritms-Loop_Task\Algoritms-Loop_Task\obj\Debug\net6.0\Algoritms-Loop_Task.csproj.CoreCompileInputs.cache
+C:\Users\Hacixanov\Desktop\Algoritms-Loop_Task\Algoritms-Loop_Task\obj\Debug\net6.0\Algoritms-Loop_Task.sourcelink.json
+C:\Users\Hacixanov\Desktop\Algoritms-Loop_Task\Algoritms-Loop_Task\obj\Debug\net6.0\Algoritms-Loop_Task.dll
+C:\Users\Hacixanov\Desktop\Algoritms-Loop_Task\Algoritms-Loop_Task\obj\Debug\net6.0\refint\Algoritms-Loop_Task.dll
+C:\Users\Hacixanov\Desktop\Algoritms-Loop_Task\Algoritms-Loop_Task\obj\Debug\net6.0\Algoritms-Loop_Task.pdb
+C:\Users\Hacixanov\Desktop\Algoritms-Loop_Task\Algoritms-Loop_Task\obj\Debug\net6.0\Algoritms-Loop_Task.genruntimeconfig.cache
+C:\Users\Hacixanov\Desktop\Algoritms-Loop_Task\Algoritms-Loop_Task\obj\Debug\net6.0\ref\Algoritms-Loop_Task.dll
